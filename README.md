@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Dilook Media as WordPress/Front End Developer.
 - 🌱 I’m currently learning JavaScript, React.
-- 👨🏽‍💻  Working with **HTML, CSS, JavaScript, Bootstrap** and **WordPress**.
+- 👨🏽‍💻  Working with **HTML, CSS, Bootstrap, JavaScript** and **WordPress**.
 - 📫  Reach me on [Instagram](https://instagram.com/gaurondenis).
 
 <!--
