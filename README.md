@@ -1,7 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Dilook Media as WordPress/Front End Developer
-- 🌱 I’m currently learning JavaScript, React
+- 🔭 I’m currently working on Dilook Media as WordPress/Front End Developer.
+- 🌱 I’m currently learning JavaScript, React.
+- 👨🏽‍💻  Working with **HTML, CSS, JavaScript, Bootstrap** and **WordPress**.
+- 📫  Reach me on [Instagram](https://instagram.com/gaurondenis).
 
 <!--
 **dg1991/dg1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
